@@ -1,0 +1,12 @@
+.editor__content {
+  color: rgb(109, 108, 108);
+}
+.ck {
+  height: 100vh;
+  overflow: visible;
+}
+.editor {
+  box-sizing: border-box;
+  width: 87%;
+  margin: 0 auto;
+}
